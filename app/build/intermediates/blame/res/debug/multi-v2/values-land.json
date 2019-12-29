@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\flex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Manish\\.gradle\\caches\\transforms-2\\files-2.1\\36fe5f7e9b2155e841ba1da2c684438f\\material-1.1.0-alpha06\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,128,198,270,340",
+                        "endLines": "2,3,4,5,9",
+                        "endColumns": "72,69,71,69,10",
+                        "endOffsets": "123,193,265,335,507"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1178,1251,1321,1393,1463",
+                        "endLines": "17,18,19,20,24",
+                        "endColumns": "72,69,71,69,10",
+                        "endOffsets": "1246,1316,1388,1458,1630"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Manish\\.gradle\\caches\\transforms-2\\files-2.1\\77fc7a83afdc9d428786d16c8d7851ee\\jetified-ccl-2.8.4\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "195,257,318",
+                        "endColumns": "61,60,52",
+                        "endOffsets": "252,313,366"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "774,836,897",
+                        "endColumns": "61,60,52",
+                        "endOffsets": "831,892,945"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Manish\\.gradle\\caches\\transforms-2\\files-2.1\\8bbfe1f06ea68a58810fe0b2d4c6e770\\jetified-play-services-cast-framework-15.0.1\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "181,262,342,412,481,576",
+                        "endColumns": "80,79,69,68,94,90",
+                        "endOffsets": "261,341,411,480,575,666"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "264,349,433,507,580,679",
+                        "endColumns": "84,83,73,72,98,94",
+                        "endOffsets": "344,428,502,575,674,769"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Manish\\.gradle\\caches\\transforms-2\\files-2.1\\d7542172bb1633bd9401933aa4f1b347\\mediarouter-1.0.0-alpha5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "14,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "950,1025,1103",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "1020,1098,1173"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Manish\\.gradle\\caches\\transforms-2\\files-2.1\\1109398fa2d240dfd353c406a1e3a2c7\\appcompat-1.1.0-alpha05\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

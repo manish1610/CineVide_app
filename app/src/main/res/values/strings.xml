@@ -1,0 +1,148 @@
+<resources>
+
+    <string name="app_name">OXOO</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">OXOO - Live TV &amp; Movie</string>
+    <string name="app_version">1.1.2</string>
+    <string name="contact_email">info@spagreen.net</string>
+    <string name="copyright_text">Copyright @ Spagreen \nAll right reserved</string>
+    <!-- App -->
+    <string name="featured_tv_channels">Featured Tv Channel</string>
+    <string name="latest_movie">Latest Movies</string>
+    <string name="latest_tv_series">Latest Tv Series</string>
+    <string name="more">More</string>
+    <string name="movie">Movies</string>
+    <string name="live_tv">Live TV</string>
+    <string name="tv_series">TV Series</string>
+    <string name="country">Country</string>
+    <string name="genre">Genre</string>
+    <string name="fav">Favorite</string>
+    <string name="search">Search</string>
+    <string name="no_item_found">No item found</string>
+    <string name="cast_n_crew">Cast and Crew</string>
+    <string name="related_movie">Related Movie</string>
+    <string name="signin">Signin</string>
+    <string name="reset">Reset Password</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="director">Director :</string>
+    <string name="description">Description</string>
+    <string name="comments">Comments</string>
+    <string name="your_comments">Your Comments</string>
+    <string name="add_comments">Add Comments</string>
+    <string name="no_internet">No internet connection !</string>
+    <string name="copyright">Copyright</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="fetch_error">Unable to fetch data</string>
+    <string name="login_first">You need to login first</string>
+    <string name="comment_empty">Comment can not empty</string>
+    <string name="error_toast">Something went wrong ! try later</string>
+
+    <string-array name="nav_item_name">
+        <item>Home</item>
+        <item>Movies</item>
+        <item>Live TV</item>
+        <item>TV Series</item>
+        <item>Genre</item>
+        <item>Country</item>
+        <item>Profile</item>
+        <item>Favorite</item>
+        <item>Sign Out</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <string-array name="nav_item_name_2">
+        <item>Home</item>
+        <item>Movies</item>
+        <item>Live TV</item>
+        <item>TV Series</item>
+        <item>Genre</item>
+        <item>Country</item>
+        <item>Login</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_player">PlayerActivity</string>
+
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="play_now">Play Now</string>
+    <string name="play_next">Play next</string>
+    <string name="queue_item_added_to_play_next">An item was added to play next</string>
+    <string name="queue_item_added_to_queue">An item was added to the queue</string>
+    <string name="program_guide">Program Guide</string>
+    <string name="live">LIVE</string>
+    <string name="watching_on">Watching live on</string>
+    <string name="all_tv_channel">All TV Channels</string>
+    <string name="you_may_also_like">You may also like</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tv_channels">Tv Channels</string>
+    <string name="watching_catch_up_tv">Watching Catch-up TV</string>
+    <string name="deactive_account_text">If you do not want to use this account you can de-active easily.</string>
+    <string name="reason_to_deactivate_account">Reason to deactivate account</string>
+    <string name="enter_password">Enter Password</string>
+
+    <string name="terms_condition_text">
+        Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc eu urna pellentesque vulputate. Phasellus lacinia ut diam id mattis. Ut fermentum, sem non viverra maximus, elit massa varius dolor, ac elementum mi nunc eu orci. Fusce ornare mi sed dapibus tempus. Quisque sollicitudin condimentum ex vitae imperdiet. Mauris et est non nibh gravida suscipit eget id est.
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis quis elit sed cursus. In commodo malesuada elit. Curabitur eget tortor ipsum. In consequat sollicitudin rhoncus. Donec interdum felis vitae ipsum mattis congue. Suspendisse eget tellus sit amet nunc egestas ultrices. Sed placerat eu arcu vel ullamcorper. Curabitur a dictum odio. Suspendisse fermentum ex vel ullamcorper scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam at nisl orci. Nullam ligula purus, pulvinar vel ligula sodales, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper tincidunt scelerisque. Praesent mollis magna ut consequat dictum.
+        \n\nDuis in vestibulum dui, non pulvinar tortor. Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc. Nullam facilisis tincidunt odio eget laoreet. Integer sapien ipsum, fringilla id purus et, cursus convallis dolor. Etiam vel lacinia nibh. Donec sollicitudin fermentum eleifend. Vivamus quis mauris in libero vehicula aliquet sit amet quis odio. Etiam et tincidunt turpis, vel iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam et mollis enim.
+        \n\nPraesent interdum lectus suscipit enim dictum, sed laoreet nisl posuere. Curabitur accumsan tellus ac iaculis fermentum. Curabitur a purus nec nibh porta imperdiet. Vivamus dignissim libero ut mauris rhoncus finibus non at urna. Phasellus a varius elit, a blandit est. Cras sodales tincidunt purus sit amet condimentum. Phasellus consectetur sem nec nisi congue, id gravida risus tristique. Curabitur vulputate convallis purus, vel bibendum nunc ultricies at.
+        \n\nInteger condimentum egestas eros mollis facilisis. Praesent vitae diam ac diam efficitur pretium nec vitae dui. Nunc quam est, porttitor ut dapibus non, sodales id nulla. Mauris facilisis malesuada dapibus. Aliquam erat volutpat. Vivamus vitae consequat mauris, nec dictum erat. Aliquam in consectetur est, sit amet varius risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vulputate dapibus lorem, ut interdum lectus bibendum nec. Suspendisse potenti. Cras elementum cursus nisl, ac pulvinar eros fringilla vitae. Cras ac tortor sagittis diam feugiat tincidunt id at est. Curabitur consequat ante purus. Nunc malesuada scelerisque leo vel efficitur.
+    </string>
+    <string name="deactivate_account">Deactivate Account</string>
+    <string name="explore_by_genre">Explore By Genre</string>
+    <string name="explore_by_country">Explore By Country</string>
+    <string name="share_this_app">Share This App</string>
+    <string name="share_body">I would like to share this TV &amp; Movie App.  Here you can download this from playstore :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Term of Services</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="account_deactivate_info"><![CDATA[Your account will be deactivate & only admin can activate again.]]></string>
+    <string name="regular_program">Regular Program</string>
+    <string name="international">International</string>
+    <string name="server">Server</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">Jhon Doe</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="others">OTHERS</string>
+    <string name="reset_btn_text">Reset</string>
+
+</resources>
